@@ -8,6 +8,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kin-wang-lam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kin-wang-lam" height="30" width="40" /></a>
+<a href="https://fb.com/kinwang.lam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kinwang.lam" height="30" width="40" /></a>
+<a href="https://instagram.com/__shamough1792" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__shamough1792" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@shamough1792o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@shamough1792o" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
