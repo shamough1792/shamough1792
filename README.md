@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nick</h1>
 <h3 align="center">A BSc In Computer Science Student from Hong Kong</h3>
 
-- 🌱 I’m currently learning **in [HKMU](https://www.hkmu.edu.hk/)**
+- 🎓 Graduated from **[HKMU](https://www.hkmu.edu.hk/)** (Class of 2026)
 
 - 📫 How to reach me **shamough1792@gmail.com**
 
