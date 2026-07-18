@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nick</h1>
-<h3 align="center">A BSc In Computer Science Student from Hong Kong</h3>
+<h3 align="center">A Computer Science Graduate from Hong Kong</h3>
+
+<p align="center">
+  🌐 <b>Check out my <a href="https://shamough1792.github.io/portfolio-website/" target="_blank">Portfolio Website</a></b>
+</p>
 
 - 🎓 Graduated from **[HKMU](https://www.hkmu.edu.hk/)** (Class of 2026)
 
@@ -8,6 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <table border="0">
   <tr>
+    <td><a href="https://shamough1792.github.io/portfolio-website/" target="blank"><img src="https://raw.githubusercontent.com/icons/geometric/master/icons/web.svg" alt="portfolio" height="30" width="40" fallback="🌐"/></a></td>
     <td><a href="https://linkedin.com/in/kin-wang-lam" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kin-wang-lam" height="30" width="40" /></a></td>
     <td><a href="https://fb.com/kinwang.lam" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kinwang.lam" height="30" width="40" /></a></td>
     <td><a href="https://instagram.com/__shamough1792" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__shamough1792" height="30" width="40" /></a></td>
