@@ -73,7 +73,7 @@
 
 ---
 
-## 中文簡介
+## 簡介
 
 香港都會大學電腦科學系畢業（2026 屆），專注全端開發，主力語言為 Python、JavaScript / TypeScript 與 Java。
 
