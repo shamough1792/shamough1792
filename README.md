@@ -18,7 +18,7 @@
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
-| **[LockMatch](https://github.com/shamough1792/LockMatch)** · **FYP** | Gamified MBTI-based social platform for Gen Z, developed as my final-year project. | `JavaScript` |
+| **[LockMatch](https://github.com/shamough1792/LockMatch)** · **FYP** | Gamified MBTI-based social platform for Gen Z, developed as my final-year project. | `Node.js` `React Native` |
 | **[Blood_Pressure_Tracker](https://github.com/shamough1792/Blood_Pressure_Tracker)** | Elderly-friendly blood-pressure logging platform with a multi-user portal, guided entry flow, calendar and trend charts, colour-coded classification, Excel export, PWA support and one-command Docker deployment. | `Node.js` `Express` `MariaDB` `EJS` `Docker` |
 | **[HKETA](https://github.com/shamough1792/HKETA)** | Mobile web app for real-time Hong Kong public transport arrivals across KMB, Citybus, NLB and MTR, with bilingual route and stop details. | `JavaScript` `Apache Cordova` `Android` |
 | **[A-Fallen-Call](https://github.com/shamough1792/A-Fallen-Call)** | Narrative mystery game built in Unreal Engine 4.27, including level design, interaction systems and cutscenes. | `Unreal Engine 4.27` |
