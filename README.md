@@ -18,12 +18,11 @@
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
-| **[CantoneseVoiceInput](https://github.com/shamough1792/CantoneseVoiceInput)** | Lightweight Windows desktop Cantonese voice-input tool. Floating capsule UI, system tray, user-definable hotkeys, types recognised text straight into the active cursor. | `Python` `Selenium` `Tkinter` `PyInstaller` |
-| **[Blood_Pressure_Tracker](https://github.com/shamough1792/Blood_Pressure_Tracker)** | Blood-pressure logging site designed for elderly users. Multi-user portal, 4-step guided entry, calendar and trend charts, colour-coded BP classification, Excel export, PWA and one-command Docker deploy. | `Node.js` `Express` `MariaDB` `EJS` `Docker` |
-| **[CourseWeb](https://github.com/shamough1792/CourseWeb)** | Online course platform with authentication, role-based access and JPA persistence. | `Java 17` `Spring Boot 3` `Spring Security` `JPA` |
+| **[LockMatch](https://github.com/shamough1792/LockMatch)** · **FYP** | Gamified MBTI-based social platform for Gen Z, developed as my final-year project. | `JavaScript` |
+| **[Blood_Pressure_Tracker](https://github.com/shamough1792/Blood_Pressure_Tracker)** | Elderly-friendly blood-pressure logging platform with a multi-user portal, guided entry flow, calendar and trend charts, colour-coded classification, Excel export, PWA support and one-command Docker deployment. | `Node.js` `Express` `MariaDB` `EJS` `Docker` |
 | **[HKETA](https://github.com/shamough1792/HKETA)** | Mobile web app for real-time Hong Kong public transport arrivals across KMB, Citybus, NLB and MTR, with bilingual route and stop details. | `JavaScript` `Apache Cordova` `Android` |
-| **[FileCodeBox](https://github.com/shamough1792/FileCodeBox)** · **[Frontend](https://github.com/shamough1792/FileCodeBoxFronted)** | Traditional Chinese (zh-TW) localisation of a self-hosted file and text sharing service, backend and frontend. | `Python` `Vue` `TypeScript` |
-| **[litemonitor-plugin-deepseek](https://github.com/shamough1792/litemonitor-plugin-deepseek)** | Plugin for the LiteMonitor hardware-monitor ecosystem. Shows live DeepSeek API balance in CNY and USD with threshold-based colour warnings. | `JSON Plugin` `LiteMonitor` |
+| **[A-Fallen-Call](https://github.com/shamough1792/A-Fallen-Call)** | Narrative mystery game built in Unreal Engine 4.27, including level design, interaction systems and cutscenes. | `Unreal Engine 4.27` |
+| **[CantoneseVoiceInput](https://github.com/shamough1792/CantoneseVoiceInput)** | Lightweight Windows desktop Cantonese voice-input tool with a floating capsule UI, system tray integration, user-defined hotkeys and direct typing into the active cursor. | `Python` `Selenium` `Tkinter` `PyInstaller` |
 
 <details>
 <summary>More things I have built</summary>
@@ -31,7 +30,9 @@
 <br>
 
 - **[portfolio-website](https://github.com/shamough1792/portfolio-website)** — Personal portfolio, built with Vite and React.
-- **[A-Fallen-Call](https://github.com/shamough1792/A-Fallen-Call)** — Narrative mystery game project built in Unreal Engine 4.27, including level design, interaction system and cutscenes.
+- **[CourseWeb](https://github.com/shamough1792/CourseWeb)** — Online course platform with authentication, role-based access and JPA persistence.
+- **[FileCodeBox](https://github.com/shamough1792/FileCodeBox)** · **[Frontend](https://github.com/shamough1792/FileCodeBoxFronted)** — Traditional Chinese (zh-TW) localisation of a self-hosted file and text sharing service.
+- **[litemonitor-plugin-deepseek](https://github.com/shamough1792/litemonitor-plugin-deepseek)** — LiteMonitor plugin showing live DeepSeek API balance in CNY and USD with threshold-based colour warnings.
 - **[Book-Management-System](https://github.com/shamough1792/Book-Management-System)** — Server-rendered CRUD system with session authentication, Mongoose data models and file uploads.
 - **[HKMU_Auto_Refresh](https://github.com/shamough1792/HKMU_Auto_Refresh)** — Node.js and Puppeteer script that polls a university portal page at a fixed interval so new content is never missed.
 - **[Backup_Synology_MariaDB](https://github.com/shamough1792/Backup_Synology_MariaDB)** — Scheduled database backup scripts for Synology NAS.
