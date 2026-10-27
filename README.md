@@ -5,6 +5,7 @@
   <a href="https://shamough1792.github.io/portfolio-website/"><img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website"></a>
   <a href="mailto:shamough1792@gmail.com"><img src="https://img.shields.io/badge/Email-shamough1792@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://linkedin.com/in/kin-wang-lam"><img src="https://img.shields.io/badge/LinkedIn-kin--wang--lam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://discord.com/users/729716367988752507"><img src="https://img.shields.io/badge/Discord-shamough1792-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
 <p align="center">
@@ -83,7 +84,9 @@
 
 曾開發創新 MBTI 社交配對應用程式 **LockMatch**，以及多項貼合實際需求的實用方案，包括**公共交通即時到站工具 (HKETA)**、**健康追蹤系統 (Blood Pressure Tracker)** 與**粵語語音輸入工具**。
 
-📫 聯絡方式：**shamough1792@gmail.com**
+📫 聯絡方式：
+- Email：**shamough1792@gmail.com**
+- Discord：**shamough1792**
 
 ---
 
@@ -92,6 +95,7 @@
 <p align="center">
   <a href="https://shamough1792.github.io/portfolio-website/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://linkedin.com/in/kin-wang-lam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://discord.com/users/729716367988752507"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://fb.com/kinwang.lam"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://instagram.com/__shamough1792"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.youtube.com/@shamough1792o"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
