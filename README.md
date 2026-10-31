@@ -48,6 +48,12 @@
 
 **[openOMSI](https://github.com/openOMSI-org/openOMSI)** rebuilds OMSI 2 from scratch in Rust while staying compatible with existing maps and mods, and it is where most of my recent open-source work goes. I am one of its more active contributors — **#6** on the [contributor list][contributors] — with **31 pull requests** opened since October 2026, **20 of them merged**: a full Traditional Chinese localisation of the launcher and in-game interface, a reworked pause menu with categorised navigation, customisable quick actions and a shared launcher/game theme, multi-point waypoint routing and a redesigned information bar for navigation, a code-based multiplayer host/join flow plus port-conflict-resistant session hosting, and vehicle compatibility fixes for legacy HOF destinations, rear-door controls and staged ignition. Two larger features are still in review: switching multiplayer rooms from inside the game, and handing a bus over to AI.
 
+<div align="center">
+
+[![openOMSI](https://img.shields.io/badge/OPEN-openOMSI-F47F30?style=for-the-badge&logo=github&logoColor=white)](https://github.com/openOMSI-org/openOMSI)
+
+</div>
+
 **[All my openOMSI pull requests →](https://github.com/openOMSI-org/openOMSI/pulls?q=is%3Apr+author%3Ashamough1792)**
 
 ---
