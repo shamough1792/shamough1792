@@ -5,11 +5,14 @@
   <a href="https://shamough1792.github.io/portfolio-website/"><img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website"></a>
   <a href="mailto:shamough1792@gmail.com"><img src="https://img.shields.io/badge/Email-shamough1792@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://linkedin.com/in/kin-wang-lam"><img src="https://img.shields.io/badge/LinkedIn-kin--wang--lam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://discord.com/users/729716367988752507"><img src="https://img.shields.io/badge/Discord-shamough1792-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
 <p align="center">
   I build practical software end-to-end — from database schema to deployment.<br>
-  Graduated from <a href="https://www.hkmu.edu.hk/">Hong Kong Metropolitan University</a>, Class of 2026.
+  Graduated from <a href="https://www.hkmu.edu.hk/">Hong Kong Metropolitan University</a>, Class of 2026.<br><br>
+  Skilled in full-stack development with JavaScript/Node.js, Java, and React Native.<br>
+  Developed <b>LockMatch</b>, an innovative MBTI-based social matching application and a health tracking system.
 </p>
 
 ---
@@ -67,7 +70,6 @@ In review right now: switching multiplayer rooms from the in-game menu ([#3488][
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -79,7 +81,7 @@ In review right now: switching multiplayer rooms from the in-game menu ([#3488][
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Apache Cordova](https://img.shields.io/badge/Apache_Cordova-E8E8E8?style=flat-square&logo=apachecordova&logoColor=black)
 
 **Data & Tooling**
@@ -90,19 +92,23 @@ In review right now: switching multiplayer rooms from the in-game menu ([#3488][
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-CC6699?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 
 ---
 
 ## 簡介
 
-香港都會大學電腦科學系畢業（2026 屆），專注全端開發，主力語言為 Python、JavaScript / TypeScript 與 Java。
+香港都會大學電腦科學系畢業生，現居香港。擅長使用 JavaScript/Node.js 及 React Native 進行全端開發。
 
-代表作品包括：**粵語語音輸入工具**（Windows 桌面應用）、**長者友善血壓記錄系統**（Node.js + MariaDB，支援 PWA 與 Docker 部署）、**香港交通 ETA 應用**（涵蓋九巴、城巴、新大嶼山巴士及港鐵），以及 **FileCodeBox 繁體中文在地化**。
+曾開發創新 MBTI 社交配對應用程式 **LockMatch**，以及多項貼合實際需求的實用方案，包括**公共交通即時到站工具 (HKETA)**、**健康追蹤系統 (Blood Pressure Tracker)** 與**粵語語音輸入工具**。
 
 開源貢獻方面，我是 [**openOMSI**](https://github.com/openOMSI-org/openOMSI)（以 Rust 重寫的 OMSI 2 開源專案）的固定貢獻者，在專案貢獻者名單中排第 6，主要負責**繁體中文（zh-TW）介面在地化**、**暫停選單與導航介面重製**，以及**多人連線與車輛相容性修正**，至今已送出 31 個 PR，其中 20 個已合併。
 
-📫 聯絡方式：**shamough1792@gmail.com**
+📫 聯絡方式：
+- Email：**shamough1792@gmail.com**
+- Discord：**shamough1792**
 
 ---
 
@@ -111,6 +117,7 @@ In review right now: switching multiplayer rooms from the in-game menu ([#3488][
 <p align="center">
   <a href="https://shamough1792.github.io/portfolio-website/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://linkedin.com/in/kin-wang-lam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://discord.com/users/729716367988752507"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://fb.com/kinwang.lam"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://instagram.com/__shamough1792"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.youtube.com/@shamough1792o"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
