@@ -11,7 +11,7 @@
 <p align="center">
   I build practical software end-to-end — from database schema to deployment.<br>
   Graduated from <a href="https://www.hkmu.edu.hk/">Hong Kong Metropolitan University</a>, Class of 2026.<br><br>
-  Skilled in full-stack development with JavaScript/Node.js, Java, and React Native.<br>
+  Skilled in full-stack development with JavaScript/Node.js and React Native.<br>
   Developed <b>LockMatch</b>, an innovative MBTI-based social matching application and a health tracking system.
 </p>
 
@@ -46,18 +46,7 @@
 
 ## Open Source · openOMSI
 
-I contribute regularly to **[openOMSI](https://github.com/openOMSI-org/openOMSI)** — OMSI 2 rebuilt from scratch in Rust, drop-in compatible with existing maps and mods. I am **#6** on the project's [contributor list][contributors], and as of October 2026 I have opened **31 pull requests** there with **20 merged**.
-
-| Area | Shipped work |
-| :--- | :--- |
-| **Traditional Chinese (zh-TW) localisation** | Launcher, pause menu, settings, navigator, multiplayer notices, controller and head-tracking text — [#1264][p1264] · [#1445][p1445] · [#2771][p2771] · [#2941][p2941] · [#2961][p2961] · [#3130][p3130] |
-| **Pause menu rework** | Categorised navigation over the existing permission-filtered actions, customisable quick actions, one shared launcher/game theme, clearer settings sections — [#3192][p3192] · [#3236][p3236] · [#3309][p3309] · [#3234][p3234] |
-| **Navigation & HUD** | Multi-point waypoint routing with map entry markers on the Shift+M map; two-row Shift+Y information bar — [#3074][p3074] · [#2997][p2997] |
-| **Multiplayer** | Code-based host/join flow in the launcher; TCP + UDP port reservation that survives a busy default port — [#2865][p2865] · [#3365][p3365] |
-| **Vehicle compatibility** | Legacy HOF destination indices, Volvo Wright rear-door controls, staged `E → M → M` ignition auto-start, dashboard layer occlusion — [#1535][p1535] · [#1125][p1125] · [#891][p891] · [#3100][p3100] |
-| **Maintenance** | RUSTSEC-patched zstd chain behind multiplayer content transfer; frame stages now stop during shutdown — [#3367][p3367] · [#3159][p3159] |
-
-In review right now: switching multiplayer rooms from the in-game menu ([#3488][p3488]) and handing a bus over to AI ([#3396][p3396]).
+**[openOMSI](https://github.com/openOMSI-org/openOMSI)** rebuilds OMSI 2 from scratch in Rust while staying compatible with existing maps and mods, and it is where most of my recent open-source work goes. I am one of its more active contributors — **#6** on the [contributor list][contributors] — with **31 pull requests** opened since October 2026, **20 of them merged**: a full Traditional Chinese localisation of the launcher and in-game interface, a reworked pause menu with categorised navigation, customisable quick actions and a shared launcher/game theme, multi-point waypoint routing and a redesigned information bar for navigation, a code-based multiplayer host/join flow plus port-conflict-resistant session hosting, and vehicle compatibility fixes for legacy HOF destinations, rear-door controls and staged ignition. Two larger features are still in review: switching multiplayer rooms from inside the game, and handing a bus over to AI.
 
 **[All my openOMSI pull requests →](https://github.com/openOMSI-org/openOMSI/pulls?q=is%3Apr+author%3Ashamough1792)**
 
@@ -124,25 +113,3 @@ In review right now: switching multiplayer rooms from the in-game menu ([#3488][
 </p>
 
 [contributors]: https://github.com/openOMSI-org/openOMSI/graphs/contributors
-[p891]: https://github.com/openOMSI-org/openOMSI/pull/891
-[p1125]: https://github.com/openOMSI-org/openOMSI/pull/1125
-[p1264]: https://github.com/openOMSI-org/openOMSI/pull/1264
-[p1445]: https://github.com/openOMSI-org/openOMSI/pull/1445
-[p1535]: https://github.com/openOMSI-org/openOMSI/pull/1535
-[p2771]: https://github.com/openOMSI-org/openOMSI/pull/2771
-[p2865]: https://github.com/openOMSI-org/openOMSI/pull/2865
-[p2941]: https://github.com/openOMSI-org/openOMSI/pull/2941
-[p2961]: https://github.com/openOMSI-org/openOMSI/pull/2961
-[p2997]: https://github.com/openOMSI-org/openOMSI/pull/2997
-[p3074]: https://github.com/openOMSI-org/openOMSI/pull/3074
-[p3100]: https://github.com/openOMSI-org/openOMSI/pull/3100
-[p3130]: https://github.com/openOMSI-org/openOMSI/pull/3130
-[p3159]: https://github.com/openOMSI-org/openOMSI/pull/3159
-[p3192]: https://github.com/openOMSI-org/openOMSI/pull/3192
-[p3234]: https://github.com/openOMSI-org/openOMSI/pull/3234
-[p3236]: https://github.com/openOMSI-org/openOMSI/pull/3236
-[p3309]: https://github.com/openOMSI-org/openOMSI/pull/3309
-[p3365]: https://github.com/openOMSI-org/openOMSI/pull/3365
-[p3367]: https://github.com/openOMSI-org/openOMSI/pull/3367
-[p3396]: https://github.com/openOMSI-org/openOMSI/pull/3396
-[p3488]: https://github.com/openOMSI-org/openOMSI/pull/3488
