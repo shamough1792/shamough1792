@@ -41,6 +41,25 @@
 
 ---
 
+## Open Source · openOMSI
+
+I contribute regularly to **[openOMSI](https://github.com/openOMSI-org/openOMSI)** — OMSI 2 rebuilt from scratch in Rust, drop-in compatible with existing maps and mods. I am **#6** on the project's [contributor list][contributors], and as of October 2026 I have opened **31 pull requests** there with **20 merged**.
+
+| Area | Shipped work |
+| :--- | :--- |
+| **Traditional Chinese (zh-TW) localisation** | Launcher, pause menu, settings, navigator, multiplayer notices, controller and head-tracking text — [#1264][p1264] · [#1445][p1445] · [#2771][p2771] · [#2941][p2941] · [#2961][p2961] · [#3130][p3130] |
+| **Pause menu rework** | Categorised navigation over the existing permission-filtered actions, customisable quick actions, one shared launcher/game theme, clearer settings sections — [#3192][p3192] · [#3236][p3236] · [#3309][p3309] · [#3234][p3234] |
+| **Navigation & HUD** | Multi-point waypoint routing with map entry markers on the Shift+M map; two-row Shift+Y information bar — [#3074][p3074] · [#2997][p2997] |
+| **Multiplayer** | Code-based host/join flow in the launcher; TCP + UDP port reservation that survives a busy default port — [#2865][p2865] · [#3365][p3365] |
+| **Vehicle compatibility** | Legacy HOF destination indices, Volvo Wright rear-door controls, staged `E → M → M` ignition auto-start, dashboard layer occlusion — [#1535][p1535] · [#1125][p1125] · [#891][p891] · [#3100][p3100] |
+| **Maintenance** | RUSTSEC-patched zstd chain behind multiplayer content transfer; frame stages now stop during shutdown — [#3367][p3367] · [#3159][p3159] |
+
+In review right now: switching multiplayer rooms from the in-game menu ([#3488][p3488]) and handing a bus over to AI ([#3396][p3396]).
+
+**[All my openOMSI pull requests →](https://github.com/openOMSI-org/openOMSI/pulls?q=is%3Apr+author%3Ashamough1792)**
+
+---
+
 ## Tech Stack
 
 **Languages**
@@ -49,6 +68,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white)
@@ -80,6 +100,8 @@
 
 代表作品包括：**粵語語音輸入工具**（Windows 桌面應用）、**長者友善血壓記錄系統**（Node.js + MariaDB，支援 PWA 與 Docker 部署）、**香港交通 ETA 應用**（涵蓋九巴、城巴、新大嶼山巴士及港鐵），以及 **FileCodeBox 繁體中文在地化**。
 
+開源貢獻方面，我是 [**openOMSI**](https://github.com/openOMSI-org/openOMSI)（以 Rust 重寫的 OMSI 2 開源專案）的固定貢獻者，在專案貢獻者名單中排第 6，主要負責**繁體中文（zh-TW）介面在地化**、**暫停選單與導航介面重製**，以及**多人連線與車輛相容性修正**，至今已送出 31 個 PR，其中 20 個已合併。
+
 📫 聯絡方式：**shamough1792@gmail.com**
 
 ---
@@ -93,3 +115,27 @@
   <a href="https://instagram.com/__shamough1792"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.youtube.com/@shamough1792o"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
+
+[contributors]: https://github.com/openOMSI-org/openOMSI/graphs/contributors
+[p891]: https://github.com/openOMSI-org/openOMSI/pull/891
+[p1125]: https://github.com/openOMSI-org/openOMSI/pull/1125
+[p1264]: https://github.com/openOMSI-org/openOMSI/pull/1264
+[p1445]: https://github.com/openOMSI-org/openOMSI/pull/1445
+[p1535]: https://github.com/openOMSI-org/openOMSI/pull/1535
+[p2771]: https://github.com/openOMSI-org/openOMSI/pull/2771
+[p2865]: https://github.com/openOMSI-org/openOMSI/pull/2865
+[p2941]: https://github.com/openOMSI-org/openOMSI/pull/2941
+[p2961]: https://github.com/openOMSI-org/openOMSI/pull/2961
+[p2997]: https://github.com/openOMSI-org/openOMSI/pull/2997
+[p3074]: https://github.com/openOMSI-org/openOMSI/pull/3074
+[p3100]: https://github.com/openOMSI-org/openOMSI/pull/3100
+[p3130]: https://github.com/openOMSI-org/openOMSI/pull/3130
+[p3159]: https://github.com/openOMSI-org/openOMSI/pull/3159
+[p3192]: https://github.com/openOMSI-org/openOMSI/pull/3192
+[p3234]: https://github.com/openOMSI-org/openOMSI/pull/3234
+[p3236]: https://github.com/openOMSI-org/openOMSI/pull/3236
+[p3309]: https://github.com/openOMSI-org/openOMSI/pull/3309
+[p3365]: https://github.com/openOMSI-org/openOMSI/pull/3365
+[p3367]: https://github.com/openOMSI-org/openOMSI/pull/3367
+[p3396]: https://github.com/openOMSI-org/openOMSI/pull/3396
+[p3488]: https://github.com/openOMSI-org/openOMSI/pull/3488
