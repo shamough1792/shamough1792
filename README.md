@@ -42,6 +42,7 @@
 
 </details>
 
+---
 ## Open Source · openOMSI
 
 **[openOMSI](https://github.com/openOMSI-org/openOMSI)** rebuilds OMSI 2 from scratch in Rust while staying compatible with existing maps and mods. As an active contributor (**#6** on the contributor list with 20+ merged PRs), my work covers:
