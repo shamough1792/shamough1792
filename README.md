@@ -45,7 +45,7 @@
 ---
 ## Open Source · openOMSI
 
-**[openOMSI](https://github.com/openOMSI-org/openOMSI)** rebuilds OMSI 2 from scratch in Rust while staying compatible with existing maps and mods. As an active contributor (**#6** on the contributor list with 20+ merged PRs), my work covers:
+**[openOMSI](https://github.com/openOMSI-org/openOMSI)** rebuilds OMSI 2 from scratch in Rust while staying compatible with existing maps and mods. As an active contributor (**#5** on the contributor list with 20+ merged PRs), my work covers:
 
 - **Multiplayer & Networking**: Implemented code-based session host/join flow, port-conflict-resistant hosting, and dynamic room switching *(in review)*.
 - **UI/UX Overhaul**: Built full Traditional Chinese (zh-TW) localization, a redesigned pause menu with quick actions, and multi-point waypoint routing.
