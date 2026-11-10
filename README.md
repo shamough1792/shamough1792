@@ -45,9 +45,9 @@
 ---
 ## Open Source · openOMSI
 
-**[openOMSI](https://github.com/openOMSI-org/openOMSI)** rebuilds OMSI 2 from scratch in Rust while staying compatible with existing maps and mods. As an active contributor (**#5** on the contributor list with 20+ merged PRs), my work covers:
+**[openOMSI](https://github.com/openOMSI-org/openOMSI)** rebuilds OMSI 2 from scratch in Rust while staying compatible with existing maps and mods. As an active contributor (**#5** on the contributor list with 40+ merged PRs), my work covers:
 
-- **Multiplayer & Networking**: Implemented code-based session host/join flow, port-conflict-resistant hosting, and dynamic room switching *(in review)*.
+- **Multiplayer & Networking**: Implemented code-based session host/join flow, port-conflict-resistant hosting, and dynamic room switching.
 - **UI/UX Overhaul**: Built full Traditional Chinese (zh-TW) localization, a redesigned pause menu with quick actions, and multi-point waypoint routing.
 - **Vehicle Logic & Compatibility**: Fixed legacy HOF destinations, rear-door controls, staged ignition, and added AI bus handover *(in review)*.
 
@@ -102,7 +102,7 @@
 
 曾開發創新 MBTI 社交配對應用程式 **LockMatch**，以及多項貼合實際需求的實用方案，包括**公共交通即時到站工具 (HKETA)**、**健康追蹤系統 (Blood Pressure Tracker)** 與**粵語語音輸入工具**。
 
-開源貢獻方面，我是 [**openOMSI**](https://github.com/openOMSI-org/openOMSI)（以 Rust 重寫的 OMSI 2 開源專案）的固定貢獻者，在專案貢獻者名單中排第 5，主要負責**繁體中文（zh-TW）介面在地化**、**暫停選單與導航介面重製**，以及**多人連線與車輛相容性修正**，至今已送出 31 個 PR，其中 20 個已合併。
+開源貢獻方面，我是 [**openOMSI**](https://github.com/openOMSI-org/openOMSI)（以 Rust 重寫的 OMSI 2 開源專案）的固定貢獻者，在專案貢獻者名單中排第 5，主要負責**繁體中文（zh-TW）介面在地化**、**暫停選單與導航介面重製**，以及**多人連線與車輛相容性修正**，至今已送出 40+ 個 PR。
 
 📫 聯絡方式：
 - Email：**shamough1792@gmail.com**
