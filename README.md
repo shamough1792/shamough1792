@@ -46,7 +46,7 @@
 
 ## Open Source · openOMSI
 
-**[openOMSI](https://github.com/openOMSI-org/openOMSI)** rebuilds OMSI 2 from scratch in Rust while staying compatible with existing maps and mods, and it is where most of my recent open-source work goes. I am one of its more active contributors — **#6** on the [contributor list][contributors] — with **31 pull requests** opened since October 2026, **20 of them merged**: a full Traditional Chinese localisation of the launcher and in-game interface, a reworked pause menu with categorised navigation, customisable quick actions and a shared launcher/game theme, multi-point waypoint routing and a redesigned information bar for navigation, a code-based multiplayer host/join flow plus port-conflict-resistant session hosting, and vehicle compatibility fixes for legacy HOF destinations, rear-door controls and staged ignition. Two larger features are still in review: switching multiplayer rooms from inside the game, and handing a bus over to AI.
+**[openOMSI](https://github.com/openOMSI-org/openOMSI)** rebuilds OMSI 2 from scratch in Rust while staying compatible with existing maps and mods, and it is where most of my recent open-source work goes. I am ranked **#5** on the [contributor list][contributors], with **49 pull requests** opened since October 2026 and **33 merged**. I identify bugs and use AI-assisted analysis to investigate causes and develop fixes, then test changes myself. For new features, I review and refine AI-generated web prototypes before guiding implementation through iteration. My contributions include Traditional Chinese localisation, launcher and in-game UI improvements, pause-menu navigation and quick actions, multi-point waypoint routing, multiplayer workflows, and vehicle compatibility fixes. A larger AI bus handover feature remains under review.
 
 **[All my openOMSI pull requests →](https://github.com/openOMSI-org/openOMSI/pulls?q=is%3Apr+author%3Ashamough1792)**
 
@@ -93,7 +93,7 @@
 
 曾開發創新 MBTI 社交配對應用程式 **LockMatch**，以及多項貼合實際需求的實用方案，包括**公共交通即時到站工具 (HKETA)**、**健康追蹤系統 (Blood Pressure Tracker)** 與**粵語語音輸入工具**。
 
-開源貢獻方面，我是 [**openOMSI**](https://github.com/openOMSI-org/openOMSI)（以 Rust 重寫的 OMSI 2 開源專案）的固定貢獻者，在專案貢獻者名單中排第 6，主要負責**繁體中文（zh-TW）介面在地化**、**暫停選單與導航介面重製**，以及**多人連線與車輛相容性修正**，至今已送出 31 個 PR，其中 20 個已合併。
+開源貢獻方面，我是 [**openOMSI**](https://github.com/openOMSI-org/openOMSI)（以 Rust 重寫的 OMSI 2 開源專案）的貢獻者，目前排名第 5，已送出 49 個 PR，其中 33 個已合併。我會主動發現問題、使用 AI 輔助分析與修改，並自行測試；新功能則由我審視和調整 AI 產生的網頁原型，再逐步推進實作。主要貢獻包括**繁體中文（zh-TW）介面在地化**、**暫停選單與導航介面改善**，以及**多人連線與車輛相容性修正**。
 
 📫 聯絡方式：
 - Email：**shamough1792@gmail.com**
